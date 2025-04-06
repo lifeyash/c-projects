@@ -1,0 +1,18 @@
+# Ignore object and executable files
+*.o
+*.out
+a.out
+*.exe
+
+# Ignore build folders
+/build/
+/bin/
+/dist/
+
+# Ignore editor backups
+*~
+*.swp
+*.bak
+
+# Keep .gitkeep files
+!.gitkeep
