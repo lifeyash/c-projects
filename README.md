@@ -43,8 +43,6 @@ Advanced/
 ├── memory-allocator/
 ├── mini-shell/
 └── tcp-chat-server/
-
-## How to Use
 ```
 
 ## Contributing
